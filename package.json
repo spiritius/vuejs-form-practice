@@ -1,0 +1,23 @@
+{
+  "name": "agro_magnit_ru",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "maska": "^2.1.9",
+    "vee-validate": "^4.9.3",
+    "vue": "^3.2.47"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.1.0",
+    "path": "^0.12.7",
+    "sass": "^1.62.1",
+    "vite": "^4.3.2",
+    "yup": "^1.1.1"
+  }
+}
